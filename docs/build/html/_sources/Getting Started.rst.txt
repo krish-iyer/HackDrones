@@ -1,0 +1,8 @@
+Getting Started
+===============
+
+This documentation will help you in building a good foundation of a drone network where you can implement
+various swarm control algorithms(specific to drones). This will be an easy guide to wireless control of drones and bit of 
+manupulation of low level network bindings. 
+
+This documentation target drones
