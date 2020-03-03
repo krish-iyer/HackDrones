@@ -1,4 +1,4 @@
-Introduction  :ref:`Introduction <getting-started: Introduction>` 
+Introduction
 ============
 
 This documentation will help you in building a good foundation of a drone network with which you can implement
@@ -25,3 +25,9 @@ Details regarding WiFi module would be discussed in detail in upcoming posts, on
 the WiFi, we can very well control drone with anything that can send signal over WiFi be it an android phone or
 a PC. 
 
+**Hardware Specification**
+
+- FC(flight controller) - **SPRACINGF3EVO**
+- WiFi module - **ESP8285** or **ESP8266**
+- Barometer - **BMP280**
+- Magnetometer - **QMC5883L**

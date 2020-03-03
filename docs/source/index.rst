@@ -10,10 +10,7 @@ Welcome to HackDrones's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   introduction
-   Installing Cleanflight
-   Flashing Firmware into using Cleanflight
-   Flashing Firmware into WiFi module(ESP8266)
-   Installing MSP-Controller App
-   Testing the flight
+   Introduction
+   Methodology
+   Installation
 
