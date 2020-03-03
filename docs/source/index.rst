@@ -7,7 +7,6 @@ Welcome to HackDrones's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
    
    Introduction
