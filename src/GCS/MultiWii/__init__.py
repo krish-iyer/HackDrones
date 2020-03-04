@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
 
+"""MultiWii.py: Multiwii Serial Protocol over UDP."""
+
+__author__ = "B Krishnan Iyer, Meher Madhu"
+__copyright__ = "Copyright 2020 HackDrones"
+
+__license__ = "GPL"
+__version__ = "1"
+__maintainer__ = "B Krishnan Iyer"
+__email__ = "krishnaniyer97@gmail.com"
+__status__ = "Development"
+
 import time, struct, socket, threading, atexit
 
 class MultiWii:

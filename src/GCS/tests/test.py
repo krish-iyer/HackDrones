@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+
+"""test.py: To test the MultiWii package."""
+
+__author__ = "B Krishnan Iyer, Meher Madhu"
+__copyright__ = "Copyright 2020 HackDrones"
+
+__license__ = "GPL"
+__version__ = "1"
+__maintainer__ = "B Krishnan Iyer"
+__email__ = "krishnaniyer97@gmail.com"
+__status__ = "Development"
+
 from MultiWii import MultiWii
 from getkey import getkey, keys
 import time

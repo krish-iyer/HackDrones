@@ -5,7 +5,7 @@ setup(
     description="MultiWii Package (MSP) to send commands and requests, and receive response over UDP ",
     version="1",
     url="https://github.com/krish-iyer/hackdrones/",
-    author="B Krishnan Iyer",
+    author="B Krishnan Iyer, Meher Madhu",
     license="GPL",
     packages=['MultiWii'],
 )
