@@ -1,0 +1,5 @@
+docs/build
+docs/make.bat
+docs/Makefile
+docs/source/_build
+src/GCS/MultiWii/__pycache__/__init__.cpython-37.pyc
